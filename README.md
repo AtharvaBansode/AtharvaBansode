@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AtharvaBansode
+- 👀 I’m interested in Coding and cricket.
+- 🌱 I’m currently learning web development.
+- 📫 You can reach me out through my mail - atharvabansode2001@gmail.com
